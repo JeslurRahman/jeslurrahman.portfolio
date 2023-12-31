@@ -18,9 +18,9 @@ cover:
   image: "projects/todo-list-app/cover.jpg"
 ---
 
-### 🔗 [View App]()
+### 🔗 [View App](https://arkalim-todo-list.netlify.app/)
 
-### 🔗 [GitHub]()
+### 🔗 [GitHub](https://github.com/JeslurRahman/ToDo-Task-App.git)
 
 ## Description
 
