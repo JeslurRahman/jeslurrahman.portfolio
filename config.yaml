@@ -62,7 +62,7 @@ params:
     imageHeight: 220
     buttons:
       - name: Resume
-        url: "https://drive.google.com/file/d/1movf7FeD9HEofnlEqzXeAgNTXsB77v8M/view"
+        url: "https://drive.google.com/file/d/1RV_baoInKi7OT65WPRQKI7yHaobE-psu/view"
 
   # List View
   hideDescriptionInList: false
@@ -84,7 +84,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/JeslurRahman"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1movf7FeD9HEofnlEqzXeAgNTXsB77v8M/view"
+      url: "https://drive.google.com/file/d/1RV_baoInKi7OT65WPRQKI7yHaobE-psu/view"
 
   # text search
   fuseOpts:
