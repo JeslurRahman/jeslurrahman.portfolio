@@ -4,7 +4,7 @@ description: "A visual approach to understand machine learning"
 dateString: June 2023
 draft: false
 tags: ["ML", "AI", "Python", "Visualization"]
-weight: 101
+weight: 102
 cover:
   image: "blog/machine-learning-visualized/cover.jpeg"
   # caption: "Photo by Lenin Estrada on Unsplash"

@@ -13,7 +13,7 @@ tags:
     "JavaScript",
   ]
 showToc: false
-weight: 204
+weight: 206
 cover:
   image: "projects/todo-list-app/cover.jpg"
 ---

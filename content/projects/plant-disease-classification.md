@@ -5,7 +5,7 @@ dateString: Sep 2023
 draft: false
 tags: ["DL", "AI", "Python", "PyTorch"]
 showToc: false
-weight: 201
+weight: 202
 cover:
   image: "projects/plant-disease-classification/plant-disease.png"
 ---
